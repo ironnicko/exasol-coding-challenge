@@ -1,0 +1,1 @@
+# exasol-coding-challenge
