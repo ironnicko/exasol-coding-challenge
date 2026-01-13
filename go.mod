@@ -1,0 +1,3 @@
+module exasol
+
+go 1.25.3
